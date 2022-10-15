@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Confira minha redes!
+  ### Confira minhas redes!
  
 <div> 
  
