@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil do Github 😁
+## Welcome to my Github profile 😁
 
  <div>
    <a href="https://github.com/Romulo-Barbosa">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Confira minhas redes!
+  ### Connect with Me! 🤝🏻
  
 <div> 
  
