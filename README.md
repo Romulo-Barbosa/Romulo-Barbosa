@@ -2,6 +2,7 @@
 
  ### ![Cover](./src/img/img2.png)
 
+<br>
 
 ### About Me
 I am passionate about programming. I've always dreamed of working with \
