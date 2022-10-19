@@ -7,14 +7,19 @@
 
 <br>
 
+
+
 ### 📝 About Me
-<p align="left">I am passionate about programming. I've always dreamed of working with <br>
-programming and now I've started to put that dream into practice by studying <br>
-HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have <br>
-knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are <br>
+<p align="left" > I am passionate about programming. I've always dreamed of working with 
+HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have 
+knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are 
 bodybuilding, photography, play guitar and games.</p>
 
+<br>
 
+👨🏻‍💻👨‍🎓 studying software engineering college.
+
+<br>
   
 ## </div>
 <div style="display: inline_block"><br>
