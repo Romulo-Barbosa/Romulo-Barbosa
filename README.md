@@ -1,6 +1,17 @@
 ## Welcome to my Github profile 😁
 
- <div>
+## ![Cover](./src/img/img2.png)
+
+### About Me
+I am passionate about programming. I've always dreamed of working with \
+programming and now I've started to put that dream into practice by studying \
+HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have\
+knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are \
+bodybuilding, photography, play guitar and games.
+
+
+  
+## <div>
    <a href="https://github.com/Romulo-Barbosa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romulo-Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Barbosa&layout=compact&langs_count=6&theme=tokyonight"/>
