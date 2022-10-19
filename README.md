@@ -10,7 +10,7 @@
 
 
 ### 📝 About Me
-<p align="left" > I am passionate about programming. I've always dreamed of working with 
+<p align="left" > I'm passionate about programming. I've always dreamed of working with 
 HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have 
 knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are 
 bodybuilding, photography, play guitar and games.</p>
