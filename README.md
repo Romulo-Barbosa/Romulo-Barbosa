@@ -7,17 +7,23 @@
 
 <br>
 
+<img src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=790b7611c8f854d8c71a00564a83a3856e0d1724674615f1&rid=giphy.gif&ct=s" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<p align="left">
+   <strong>📝 About Me</strong>
+</p>
 
-### 📝 About Me
-<p align="left" > I'm passionate about programming. I've always dreamed of working with 
+<p align="left"> 
+  I'm passionate about programming. I've always dreamed of working with 
 HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have 
 knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are 
-bodybuilding, photography, play guitar and games.</p>
+bodybuilding, photography, play guitar and games.
+   <br>
+   <br>
+   <br>
+ 👨🏻‍💻👨‍🎓 studying software engineering college.
 
-<br>
 
-👨🏻‍💻👨‍🎓 studying software engineering college.
 
 <br>
   
