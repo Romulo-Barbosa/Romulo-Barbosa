@@ -8,7 +8,10 @@
 <br>
 
 <img src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=790b7611c8f854d8c71a00564a83a3856e0d1724674615f1&rid=giphy.gif&ct=s" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 <br>
+<br>
+
 <p align="left">
    <strong>📝 About Me</strong>
 </p>
