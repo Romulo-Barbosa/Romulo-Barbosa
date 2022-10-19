@@ -27,7 +27,7 @@ bodybuilding, photography, play guitar and games.
  👨🏻‍💻👨‍🎓 studying software engineering college.
 
 
-
+<br>
 <br>
   
 ## <div></div>
