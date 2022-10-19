@@ -2,7 +2,7 @@
 
  ### [![MasterHead](./src/img/img3.png)]()
 
-  <h1 align="center">Welcome to my Github profile 😁 </h1>
+  <h2 align="center" align="justify">Welcome to my Github profile 😁 </h1>
   <h3 align="center">Full-Stack developer Jr.</h3>
 
 <br>
