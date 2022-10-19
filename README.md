@@ -1,6 +1,6 @@
 ## Welcome to my Github profile 😁
 
- ![Cover](./src/img/img2.png)
+ ### ![Cover](./src/img/img2.png)
 <br>
 
 ### About Me
