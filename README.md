@@ -1,15 +1,18 @@
-## Welcome to my Github profile 😁
 
- ### ![Cover](./src/img/img3.png)
+
+ ### [![MasterHead](./src/img/img3.png)]()
+
+  <h1 align="center">Welcome to my Github profile 😁 </h1>
+  <h3 align="center">Full-Stack developer Jr.</h3>
 
 <br>
 
-### About Me
-I am passionate about programming. I've always dreamed of working with \
-programming and now I've started to put that dream into practice by studying \
-HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have\
-knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are \
-bodybuilding, photography, play guitar and games.
+### 📝 About Me
+<p align="left">I am passionate about programming. I've always dreamed of working with <br>
+programming and now I've started to put that dream into practice by studying <br>
+HTML, CSS, JavaScript, Node.js, Express, MySQL and React. I also study and have <br>
+knowledge in WordPress. I like Energetic a lot (too much), and my main hobbies are <br>
+bodybuilding, photography, play guitar and games.</p>
 
 
   
