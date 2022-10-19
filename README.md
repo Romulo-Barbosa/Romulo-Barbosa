@@ -43,7 +43,7 @@ bodybuilding, photography, play guitar and games.
 <br>
 <br>
 
-<div align="center">
+<div >
    <a href="https://github.com/Romulo-Barbosa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romulo-Barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Barbosa&layout=compact&langs_count=6&theme=tokyonight"/>
